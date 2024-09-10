@@ -1,0 +1,16 @@
+# Python cache directories
+pycache/
+.py[cod]
+
+# Environment variables files
+.env
+.env.
+
+# Virtual environments
+myenv/
+.venv/
+env/
+ENV/
+venv/
+env.bak/
+venv.bak/
